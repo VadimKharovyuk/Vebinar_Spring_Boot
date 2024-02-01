@@ -9,6 +9,7 @@ public class VebinarSpringBootApplication {
     public static void main(String[] args) {
         SpringApplication.run(VebinarSpringBootApplication.class, args);
        // https://www.youtube.com/watch?v=R4tF8vVwdSM
+        //48_20
     }
 
 }
